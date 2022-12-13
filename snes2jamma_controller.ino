@@ -1,7 +1,7 @@
 #include "snes_ctrl_read.h"
 #include "jamma_buttons.h"
 
-#define PRINT_BUTTON_PRESSES //Uncomment for printing button presses into serial port, adding input lag
+//#define PRINT_BUTTON_PRESSES //Uncomment for printing button presses into serial port, adding input lag
 #define PLAYER1 0
 #define PLAYER2 1
 
